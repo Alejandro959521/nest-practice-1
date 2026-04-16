@@ -4,6 +4,7 @@
 /build
 /mongo
 .env
+.env.prod
 # Logs
 logs
 *.log
@@ -12,6 +13,7 @@ pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+yarn.lock
 
 # OS
 .DS_Store
